@@ -1,3 +1,11 @@
+<!--
+ * @Author: swz128 swz12306@gmail.com
+ * @Date: 2024-11-12 17:41:40
+ * @LastEditors: swz128 swz12306@gmail.com
+ * @LastEditTime: 2024-11-12 18:32:19
+ * @FilePath: /xrzww_novel/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Xrzww Novel Downloader
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -28,7 +36,7 @@ pip install -r requirements.txt
 
 4. 运行 `novel_download.py`
 
-5. 修改 `novel_decrypted.py` 中的小说名称 `novel_name` ，并运行。小说会解密后保存在 `./output` 目录下。
+5. 修改 `novel_decrypt.py` 中的小说名称 `novel_name` ，并运行。小说会解密后保存在 `./output` 目录下。
 
 ![](doc/img/2.png)
 
